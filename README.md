@@ -23,7 +23,7 @@ void loop() {
 }
 
 //RED1
-  void RED1();
+   void RED1() {
   digitalWrite(RED1,HIGH);
   delay(500);
   digitalWrite(RED1,LOW);
